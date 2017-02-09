@@ -1,0 +1,27 @@
+"Null-hypothesis tests are not completely stupid, but Bayesian statistics are better."
+(Rindskopf, 1998).
+Forever glorious be your name, o wise guest of my thoughts, for it proves irrefutably that The Everything is Certainly Probable! ?
+"valid defense of using non-Bayesian methods, namely incompetence" (Skilling, 1992). The often heated debates between Bayesians and non-Bayesians are well known. For example, Skilling (1991, pg. 24) writes, �there is a valid defence [sic] of using non-Bayesian methods, namely incompetence.� Skilling, J. (1991). Fundamentals of MaxEnt in data analysis. In �Maximum Entropy in Action�, Brian Buck and Vincent A. Macaulay (Ed.), Clarendon Press, Oxford, England. Statistics is the physics of numbers. Persi Diaconis
+"What the use of P implies, therefore, is that a hypothesis that may be true may be rejected because it has not predicted observable results that have not occurred."
+Jeffreys (1961)
+"relative in part to [our] ignorance, in part to [our] knowledge"
+Laplace (1820, p.6) (in Howson and Urbach (1993) page 22)
+"The most important questions of life are, for the most part, really only problems of probability."
+Pierre Simon de Laplace, "Th�orie Analytique des Probabilit�s"
+"If statistics is an applied field and not a minor branch of mathematics, then more than 99% of the published papers are useless exercises."
+Breiman (1995).
+"probability does not exist"
+Bruno de Finetti
+Intuition is a poor guide when facing probabilistic evidence
+Inside every nonBayesian there is a Bayesian struggling to get out
+Dennis V. Lindley
+"Every allowed extension of Aristotelian logic to plausibility theory is isomorphic to Bayesian probability theory"
+"There are no problems left in statistics except the assessment of probability"
+A quote from a colleague in Lindley (2000)
+All models are false, but some are useful
+"Garrett Birkhoff wrote (in 1948): Everybody speaks of probability, but no one is able to say what it is, in a way which is satisfactory for others."
+page 511 de Finetti book
+"The most important maxim for data analysis to heed, and one which many statisticians seem to have shunned, is this: Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise"
+Tukey (1962) pp. 13-14 [de Finetti book page 480]
+'I agree with Herman Rubin's remark, at the Waterloo conference on scientific inference in 1970, that a “good Bayesian does better than a non-Bayesian but a bad Bayesian gets clobbered.”'
+Good (1983) page 139
